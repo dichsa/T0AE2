@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 WEQWWEWE
 QWEQWEQE
+=======
+WEerWEQWWEWE
+>>>>>>> RAMA3
